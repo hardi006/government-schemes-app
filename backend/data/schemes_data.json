@@ -1,0 +1,581 @@
+[
+  {
+    "id": "SCH_001",
+    "name": "Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
+    "level": "Central",
+    "state": "All",
+    "sector": "Healthcare",
+    "demographics": [
+      "Laborer",
+      "Middle Class",
+      "Poor",
+      "Rural"
+    ],
+    "gender": "All",
+    "budget": 7500.0,
+    "description": "The world's largest health assurance scheme, aiming to provide a health cover of Rs. 5 lakhs per family per year for secondary and tertiary care hospitalization.",
+    "benefits": "Cashless cover of Rs. 5 Lakhs per family per year. Over 12 crore poor and vulnerable families covered.",
+    "eligibility": "Families listed in the Socio-Economic Caste Census (SECC) database; no restriction on family size or age.",
+    "source_url": "https://dashboard.pmjay.gov.in/"
+  },
+  {
+    "id": "SCH_002",
+    "name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+    "level": "Central",
+    "state": "All",
+    "sector": "Agriculture",
+    "demographics": [
+      "Farmer",
+      "Rural"
+    ],
+    "gender": "All",
+    "budget": 60000.0,
+    "description": "An initiative by the government of India that provides up to Rs. 6,000 per year in three equal installments to all landholding farmer families.",
+    "benefits": "Direct income support of Rs. 6,000 per year transferred directly into the bank accounts of farmers.",
+    "eligibility": "All landholding farmer families across the country (subject to certain exclusion criteria like institutional landholders).",
+    "source_url": "https://pmkisan.gov.in/"
+  },
+  {
+    "id": "SCH_003",
+    "name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+    "level": "Central",
+    "state": "All",
+    "sector": "Jobs & Skill Development",
+    "demographics": [
+      "Laborer",
+      "Rural"
+    ],
+    "gender": "All",
+    "budget": 86000.0,
+    "description": "Social security measure that aims to guarantee the 'right to work' by providing at least 100 days of wage employment in a financial year to rural households.",
+    "benefits": "Guaranteed 100 days of unskilled manual work per year. Unemployment allowance if work is not provided within 15 days.",
+    "eligibility": "Adult members of any rural household willing to do unskilled manual work.",
+    "source_url": "https://nrega.nic.in/"
+  },
+  {
+    "id": "SCH_004",
+    "name": "Samagra Shiksha Abhiyan",
+    "level": "Central",
+    "state": "All",
+    "sector": "Education",
+    "demographics": [
+      "Student",
+      "Youth"
+    ],
+    "gender": "All",
+    "budget": 37500.0,
+    "description": "An overarching programme for the school education sector extending from pre-school to class 12, aiming to ensure inclusive and equitable quality education.",
+    "benefits": "Support for school infrastructure, digital education, teacher training, and free textbooks and uniforms.",
+    "eligibility": "All children enrolled in government or government-aided schools from pre-school to senior secondary level.",
+    "source_url": "https://samagra.education.gov.in/"
+  },
+  {
+    "id": "SCH_005",
+    "name": "Pradhan Mantri Awas Yojana - Urban (PMAY-U)",
+    "level": "Central",
+    "state": "All",
+    "sector": "Housing & Infrastructure",
+    "demographics": [
+      "Middle Class",
+      "Poor",
+      "Urban"
+    ],
+    "gender": "All",
+    "budget": 80671.0,
+    "description": "A flagship mission that addresses urban housing shortage among the EWS/LIG and MIG categories including the slum dwellers by ensuring a pucca house.",
+    "benefits": "Interest subsidy on home loans, financial assistance for house construction up to Rs. 2.67 lakhs.",
+    "eligibility": "Economically Weaker Section (EWS), Low Income Group (LIG), and Middle Income Group (MIG) families without a pucca house in India.",
+    "source_url": "https://pmay-urban.gov.in/"
+  },
+  {
+    "id": "SCH_006",
+    "name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+    "level": "Central",
+    "state": "All",
+    "sector": "Jobs & Skill Development",
+    "demographics": [
+      "Student",
+      "Youth"
+    ],
+    "gender": "All",
+    "budget": 2000.0,
+    "description": "Skill certification scheme that aims to enable a large number of Indian youth to take up industry-relevant skill training to secure a better livelihood.",
+    "benefits": "Free skill training, assessments, and recognized certifications. Financial rewards upon successful completion and placement assistance.",
+    "eligibility": "Any unemployed youth or school/college dropouts with verifiable identity proof.",
+    "source_url": "https://www.pmkvyofficial.org/"
+  },
+  {
+    "id": "SCH_007",
+    "name": "Atal Pension Yojana (APY)",
+    "level": "Central",
+    "state": "All",
+    "sector": "Financial Services",
+    "demographics": [
+      "Laborer",
+      "Middle Class",
+      "Unorganized Workers"
+    ],
+    "gender": "All",
+    "budget": 350.0,
+    "description": "A pension scheme focused on the unorganized sector workers, offering a guaranteed minimum pension of Rs. 1,000 to Rs. 5,000 per month after age 60.",
+    "benefits": "Guaranteed minimum pension for life, spouse pension after death, and return of corpus to the nominee.",
+    "eligibility": "All citizens of India aged between 18 and 40 years holding a savings bank account.",
+    "source_url": "https://www.npscra.nsdl.co.in/"
+  },
+  {
+    "id": "SCH_008",
+    "name": "Lakhpati Didi Scheme",
+    "level": "Central",
+    "state": "All",
+    "sector": "Jobs & Skill Development",
+    "demographics": [
+      "Women",
+      "Rural",
+      "Farmer"
+    ],
+    "gender": "Female",
+    "budget": 1500.0,
+    "description": "Government initiative aiming to empower 3 crore rural women in Self-Help Groups (SHGs) to earn a sustainable income of at least Rs. 1 lakh per year.",
+    "benefits": "Skill training in drone flying, LED bulb making, plumbing, weaving, financial literacy, and easy credit access.",
+    "eligibility": "Women who are active members of registered Self-Help Groups (SHGs) in rural areas.",
+    "source_url": "https://lakhpatididi.gov.in/"
+  },
+  {
+    "id": "SCH_009",
+    "name": "Sukanya Samriddhi Yojana (SSY)",
+    "level": "Central",
+    "state": "All",
+    "sector": "Financial Services",
+    "demographics": [
+      "Student",
+      "Children"
+    ],
+    "gender": "Female",
+    "budget": 120.0,
+    "description": "A small deposit scheme for a girl child launched as a part of the 'Beti Bachao Beti Padhao' campaign, offering high interest rates and tax savings.",
+    "benefits": "High interest rate (currently 8.2%), tax deductions under Section 80C, and maturity funds for higher education/marriage.",
+    "eligibility": "Parents or legal guardians of a girl child below 10 years of age (maximum two accounts per family).",
+    "source_url": "https://www.indiapost.gov.in/"
+  },
+  {
+    "id": "SCH_010",
+    "name": "Majhi Ladki Bahin Yojana",
+    "level": "State",
+    "state": "Maharashtra",
+    "sector": "Social Welfare & Finance",
+    "demographics": [
+      "Women",
+      "Middle Class",
+      "Poor"
+    ],
+    "gender": "Female",
+    "budget": 46000.0,
+    "description": "A state-level financial assistance scheme launched by the Maharashtra government providing monthly cash support to women.",
+    "benefits": "Monthly financial aid of Rs. 1,500 deposited directly into the bank accounts of eligible women beneficiaries.",
+    "eligibility": "Women residents of Maharashtra aged 21 to 65 years with annual family income less than Rs. 2.5 Lakhs.",
+    "source_url": "https://ladkibahin.maharashtra.gov.in/"
+  },
+  {
+    "id": "SCH_011",
+    "name": "Mahatma Jyotirao Phule Jan Arogya Yojana (MJPJAY)",
+    "level": "State",
+    "state": "Maharashtra",
+    "sector": "Healthcare",
+    "demographics": [
+      "Middle Class",
+      "Laborer",
+      "Poor"
+    ],
+    "gender": "All",
+    "budget": 2800.0,
+    "description": "A flagship health insurance scheme of the Government of Maharashtra providing cashless quality medical care for identified specialty services.",
+    "benefits": "Cashless medical insurance cover of up to Rs. 5 Lakhs per family per year in empanelled network hospitals.",
+    "eligibility": "Families holding Yellow, Orange, or Antyodaya ration cards in Maharashtra.",
+    "source_url": "https://www.jeevandayee.gov.in/"
+  },
+  {
+    "id": "SCH_012",
+    "name": "Namo Shetkari Mahasanman Nidhi Scheme",
+    "level": "State",
+    "state": "Maharashtra",
+    "sector": "Agriculture",
+    "demographics": [
+      "Farmer",
+      "Rural"
+    ],
+    "gender": "All",
+    "budget": 6900.0,
+    "description": "State scheme matching the central government's PM-KISAN, providing additional financial support to farmers in Maharashtra.",
+    "benefits": "Additional financial aid of Rs. 6,000 per year paid in three installments of Rs. 2,000.",
+    "eligibility": "All landholding farmers in Maharashtra who are already beneficiaries of PM-KISAN.",
+    "source_url": "https://krishi.maharashtra.gov.in/"
+  },
+  {
+    "id": "SCH_013",
+    "name": "Gruha Lakshmi Scheme",
+    "level": "State",
+    "state": "Karnataka",
+    "sector": "Social Welfare & Finance",
+    "demographics": [
+      "Women",
+      "Middle Class",
+      "Poor"
+    ],
+    "gender": "Female",
+    "budget": 28600.0,
+    "description": "One of Karnataka's welfare guarantees providing monthly cash assistance to the female head of households.",
+    "benefits": "Rs. 2,000 per month direct benefit transfer to the bank account of the designated female head of the family.",
+    "eligibility": "Women heads of households registered under BPL, APL, or Antyodaya ration cards (excluding taxpayers/GST registrants).",
+    "source_url": "https://sevasindhu.karnataka.gov.in/"
+  },
+  {
+    "id": "SCH_014",
+    "name": "Yuva Nidhi Scheme",
+    "level": "State",
+    "state": "Karnataka",
+    "sector": "Jobs & Skill Development",
+    "demographics": [
+      "Student",
+      "Youth",
+      "Unemployed"
+    ],
+    "gender": "All",
+    "budget": 250.0,
+    "description": "Unemployment assistance and skill training support program for graduates and diploma holders in Karnataka.",
+    "benefits": "Rs. 3,000/month for graduates and Rs. 1,500/month for diploma holders for up to 24 months, along with free skill training.",
+    "eligibility": "Domiciles of Karnataka who graduated in the academic year 2022-2023 or later and remained unemployed for 6 months.",
+    "source_url": "https://sevasindhugs.karnataka.gov.in/"
+  },
+  {
+    "id": "SCH_015",
+    "name": "Gruha Jyothi Scheme",
+    "level": "State",
+    "state": "Karnataka",
+    "sector": "Housing & Infrastructure",
+    "demographics": [
+      "Middle Class",
+      "Laborer",
+      "Poor"
+    ],
+    "gender": "All",
+    "budget": 9600.0,
+    "description": "Welfare scheme aimed at reducing the electricity bill burden of households in Karnataka by providing free electricity.",
+    "benefits": "Up to 200 units of free electricity per month for domestic electricity connections.",
+    "eligibility": "Domestic consumers in Karnataka whose average consumption is below 200 units per month.",
+    "source_url": "https://sevasindhu.karnataka.gov.in/"
+  },
+  {
+    "id": "SCH_016",
+    "name": "Kanya Sumangala Yojana",
+    "level": "State",
+    "state": "Uttar Pradesh",
+    "sector": "Social Welfare & Education",
+    "demographics": [
+      "Student",
+      "Children"
+    ],
+    "gender": "Female",
+    "budget": 1200.0,
+    "description": "A conditional cash transfer scheme providing financial assistance to girls in UP at various stages from birth to graduation.",
+    "benefits": "Total financial assistance of Rs. 25,000 (recently hiked) in 6 stages linked to vaccination, school admission, and graduation.",
+    "eligibility": "Girl child born in UP, family annual income below Rs. 3 Lakhs, maximum of two daughters per family.",
+    "source_url": "https://mksy.up.gov.in/"
+  },
+  {
+    "id": "SCH_017",
+    "name": "Mukhyamantri Abhyudaya Yojana",
+    "level": "State",
+    "state": "Uttar Pradesh",
+    "sector": "Education",
+    "demographics": [
+      "Student",
+      "Youth"
+    ],
+    "gender": "All",
+    "budget": 50.0,
+    "description": "Free coaching platform for students preparing for competitive exams like UPSC, JEE, NEET, NDA, CDS, and bank exams.",
+    "benefits": "Free physical and virtual coaching, access to study materials, guidance from IAS/IPS officers, and free tablets for selected students.",
+    "eligibility": "Residents of Uttar Pradesh preparing for competitive exams; preference to economically weaker sections.",
+    "source_url": "http://abhyuday.up.gov.in/"
+  },
+  {
+    "id": "SCH_018",
+    "name": "Pudhumai Penn Scheme",
+    "level": "State",
+    "state": "Tamil Nadu",
+    "sector": "Education",
+    "demographics": [
+      "Student",
+      "Youth"
+    ],
+    "gender": "Female",
+    "budget": 370.0,
+    "description": "Moovalur Ramamirtham Ammaiyar Higher Education Assurance Scheme, aiming to enhance enrollment of girl students from government schools into higher education.",
+    "benefits": "Monthly cash incentive of Rs. 1,000 credited directly into the bank accounts of girl students pursuing degrees/diplomas.",
+    "eligibility": "Girl students of Tamil Nadu government schools from Classes 6 to 12 who join higher education courses.",
+    "source_url": "https://www.pudhumaipenn.tn.gov.in/"
+  },
+  {
+    "id": "SCH_019",
+    "name": "Makkalai Thedi Maruthuvam",
+    "level": "State",
+    "state": "Tamil Nadu",
+    "sector": "Healthcare",
+    "demographics": [
+      "Middle Class",
+      "Laborer",
+      "Elderly"
+    ],
+    "gender": "All",
+    "budget": 400.0,
+    "description": "A community-based healthcare delivery scheme that takes medical services directly to citizens' doorsteps, focusing on non-communicable diseases.",
+    "benefits": "Free home delivery of medicines for hypertension, diabetes, home-based physiotherapy, and screening services.",
+    "eligibility": "All residents of Tamil Nadu, particularly elderly and patients with chronic health conditions.",
+    "source_url": "https://www.tnhealth.tn.gov.in/"
+  },
+  {
+    "id": "SCH_020",
+    "name": "Delhi Ladli Scheme",
+    "level": "State",
+    "state": "Delhi",
+    "sector": "Social Welfare & Education",
+    "demographics": [
+      "Student",
+      "Children"
+    ],
+    "gender": "Female",
+    "budget": 100.0,
+    "description": "A scheme designed to empower girls by funding their birth registration, school enrollment, and milestone financial incentives.",
+    "benefits": "Financial cash deposits at different levels of education, maturing to a substantial corpus when the girl reaches 18.",
+    "eligibility": "Girl children born in Delhi, family residing in Delhi for last 3 years, annual family income below Rs. 1 Lakh.",
+    "source_url": "https://wcddel.in/"
+  },
+  {
+    "id": "SCH_021",
+    "name": "Mukhyamantri Free Wi-Fi Scheme",
+    "level": "State",
+    "state": "Delhi",
+    "sector": "Housing & Infrastructure",
+    "demographics": [
+      "Student",
+      "Middle Class",
+      "Youth"
+    ],
+    "gender": "All",
+    "budget": 75.0,
+    "description": "State initiative to set up free public Wi-Fi hotspots across the National Capital Territory of Delhi.",
+    "benefits": "15 GB free internet data per month per user at high speeds at thousands of hotspots near metro stations and bus stands.",
+    "eligibility": "All residents and visitors in Delhi with active mobile connections.",
+    "source_url": "https://delhi.gov.in/"
+  },
+  {
+    "id": "SCR_803",
+    "name": "www.india.gov.in/my Scheme",
+    "level": "Central",
+    "state": "All",
+    "sector": "Healthcare",
+    "demographics": [
+      "Middle Class"
+    ],
+    "gender": "All",
+    "budget": 803.0,
+    "description": "This section provides detailed information on various government schemes designed to benefit Indian citizens. Discover a range of programmes aimed at enhancing social welfare, economic development, health, education, and more. Access essential details about eligibility, application processes, and the specific advantages offered by each scheme, empowering you to take full advantage of the ...",
+    "benefits": "Benefits include assistance related to healthcare. Access information via the link.",
+    "eligibility": "Target beneficiaries: Middle Class. Details on official site.",
+    "source_url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.india.gov.in%2Fmy%2Dgovernment%2Fschemes&rut=728641e681bc2a0209a91e405326f07f4fc2ac92c016e88950aa379b9d3d818c"
+  },
+  {
+    "id": "SCR_3493",
+    "name": "services.india.gov.in/service/service_url_redirect?id=MjQ1NzU= Scheme",
+    "level": "Central",
+    "state": "All",
+    "sector": "Social Welfare",
+    "demographics": [
+      "Middle Class"
+    ],
+    "gender": "All",
+    "budget": 4193.0,
+    "description": "CGHS Welcome to CGHS Beneficiary Login Please Sign-In to Access Your Account",
+    "benefits": "Benefits include assistance related to social welfare. Access information via the link.",
+    "eligibility": "Target beneficiaries: Middle Class. Details on official site.",
+    "source_url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fservices.india.gov.in%2Fservice%2Fservice_url_redirect%3Fid%3DMjQ1NzU%3D&rut=d33c4725dbbfaf85d34f31c80482577bef50dd9da8dd3d54fcb45fd034678ef1"
+  },
+  {
+    "id": "SCR_8490",
+    "name": "services.india.gov.in/service/ministry_services?cmd_id=1338&ln=en&page_no=3 Scheme",
+    "level": "Central",
+    "state": "All",
+    "sector": "Healthcare",
+    "demographics": [
+      "Middle Class"
+    ],
+    "gender": "All",
+    "budget": 4090.0,
+    "description": "Ministry of Health & Family Welfare has been entrusted with the responsibility to hold on-line counseling for 50% All India Quota Post-Graduate Medical and Dental seats and also as per the notification issued by the MCI for common counselling.",
+    "benefits": "Benefits include assistance related to healthcare. Access information via the link.",
+    "eligibility": "Target beneficiaries: Middle Class. Details on official site.",
+    "source_url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fservices.india.gov.in%2Fservice%2Fministry_services%3Fcmd_id%3D1338%26ln%3Den%26page_no%3D3&rut=a89b8236b4a3891588ae4e2811b24e64a2a23d303e1f4cfca1ea79a0c9328c4b"
+  },
+  {
+    "id": "SCR_6077",
+    "name": "services.india.gov.in/service/listing?cat_id=123&ln=en Scheme",
+    "level": "Central",
+    "state": "All",
+    "sector": "Financial Services",
+    "demographics": [
+      "Women"
+    ],
+    "gender": "Female",
+    "budget": 2377.0,
+    "description": "Residents of Madhya Pradesh can check their eligibility for various social security pension schemes through the state's online portal. The service provides criteria such as age, economic status, and other requirements, helping applicants understand their qualification for benefits like pensions for women, the elderly, and those living below the poverty line.",
+    "benefits": "Benefits include assistance related to financial services. Access information via the link.",
+    "eligibility": "Target beneficiaries: Women. Details on official site.",
+    "source_url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fservices.india.gov.in%2Fservice%2Flisting%3Fcat_id%3D123%26ln%3Den&rut=e70041d756dd48c1e5b7ec5e0a5198b0adf9ac4575830d38cc1dc8190649dd32"
+  },
+  {
+    "id": "SCR_9391",
+    "name": "www.india.gov.in/website Scheme",
+    "level": "Central",
+    "state": "All",
+    "sector": "Healthcare",
+    "demographics": [
+      "Student"
+    ],
+    "gender": "All",
+    "budget": 4191.0,
+    "description": "The objectives of the scheme is to impart not only Foundational Literacy and Numeracy but also to cover other components which are necessary for a citizen of 21 st century such as Critical Life Skills (including financial literacy, digital literacy, commercial skills, health care and awareness, child care and education, and family welfare ...",
+    "benefits": "Benefits include assistance related to healthcare. Access information via the link.",
+    "eligibility": "Target beneficiaries: Student. Details on official site.",
+    "source_url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fwww.india.gov.in%2Fwebsite%2Dpm%2Dschools%2Drising%2Dindia%2Dpm%2Dshri%3Fpage%3D13&rut=756c28eab330a380607f77caee47b3d50b1f54155357750b763251ddf5d3b987"
+  },
+  {
+    "id": "SCR_2351",
+    "name": "services.india.gov.in/service/detail/search Scheme",
+    "level": "Central",
+    "state": "All",
+    "sector": "Education",
+    "demographics": [
+      "Student"
+    ],
+    "gender": "All",
+    "budget": 4151.0,
+    "description": "Gujarat has various government scholarship schemes aimed at supporting students from different backgrounds and academic levels. These schemes offer financial assistance for various purposes, including tuition fees, living expenses, and research activities.",
+    "benefits": "Benefits include assistance related to education. Access information via the link.",
+    "eligibility": "Target beneficiaries: Student. Details on official site.",
+    "source_url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fservices.india.gov.in%2Fservice%2Fdetail%2Fsearch%2Dgovernment%2Dscholarship%2Dscheme%2Dgujarat&rut=c3561c67df41701a638c8cd9bb44dbf67859dd78c56c609f9b3a73f1064249ad"
+  },
+  {
+    "id": "SCR_9936",
+    "name": "services.india.gov.in/service/detail/online Scheme",
+    "level": "Central",
+    "state": "All",
+    "sector": "Education",
+    "demographics": [
+      "Student",
+      "Farmer",
+      "Women"
+    ],
+    "gender": "Female",
+    "budget": 1236.0,
+    "description": "The National Portal of India provides single-window access to information and services offered by the government at all levels. It focuses on unifying information collated from platforms and portals, packaged and served based on user segments such as farmers, students, women, youth, etc., as well as sectoral views. The portal is built using the latest technology, featuring a user-friendly ...",
+    "benefits": "Benefits include assistance related to education. Access information via the link.",
+    "eligibility": "Target beneficiaries: Student, Farmer, Women. Details on official site.",
+    "source_url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fservices.india.gov.in%2Fservice%2Fdetail%2Fonline%2Dapplication%2Dfor%2Dscholarship%2Dgujarat&rut=f9a1bd6a1299c2d38ba4e47707f8d311660408e6568f95b9e5d74d66b0e30e16"
+  },
+  {
+    "id": "SCR_1553",
+    "name": "services.india.gov.in/service/detail/\u0917\u0941\u091c\u0930\u093e\u0924 Scheme",
+    "level": "Central",
+    "state": "All",
+    "sector": "Social Welfare",
+    "demographics": [
+      "Middle Class"
+    ],
+    "gender": "All",
+    "budget": 1953.0,
+    "description": "\u0915\u0915\u094d\u0937\u093e 1 \u0938\u0947 \u0909\u091a\u094d\u091a \u0936\u093f\u0915\u094d\u0937\u093e \u0915\u0947 \u0938\u092d\u0940 \u0935\u0930\u094d\u0917\u094b\u0902 \u0915\u0947 \u0938\u092d\u0940 \u091b\u093e\u0924\u094d\u0930\u094b\u0902 \u0915\u094b \u0921\u093f\u091c\u093f\u091f\u0932 \u0917\u0941\u091c\u0930\u093e\u0924 \u092a\u094b\u0930\u094d\u091f\u0932 \u0915\u0947 \u092e\u093e\u0927\u094d\u092f\u092e \u0938\u0947 \u091b\u093e\u0924\u094d\u0930\u0935\u0943\u0924\u094d\u0924\u093f \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0940 \u091c\u093e\u0924\u0940 \u0939\u0948\u0964 \u0921\u0940\u092c\u0940\u091f\u0940 \u0915\u0947 ...",
+    "benefits": "Benefits include assistance related to social welfare. Access information via the link.",
+    "eligibility": "Target beneficiaries: Middle Class. Details on official site.",
+    "source_url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fservices.india.gov.in%2Fservice%2Fdetail%2F%25E0%25A4%2597%25E0%25A5%2581%25E0%25A4%259C%25E0%25A4%25B0%25E0%25A4%25BE%25E0%25A4%25A4%2D%25E0%25A4%25AE%25E0%25A5%2587%25E0%25A4%2582%2D%25E0%25A4%259B%25E0%25A4%25BE%25E0%25A4%25A4%25E0%25A5%258D%25E0%25A4%25B0%25E0%25A4%25B5%25E0%25A5%2583%25E0%25A4%25A4%25E0%25A5%258D%25E0%25A4%25A4%25E0%25A4%25BF%2D%25E0%25A4%2595%25E0%25A5%2587%2D%25E0%25A4%25B2%25E0%25A4%25BF%25E0%25A4%258F%2D%25E0%25A4%2591%25E0%25A4%25A8%25E0%25A4%25B2%25E0%25A4%25BE%25E0%25A4%2587%25E0%25A4%25A8%2D%25E0%25A4%2586%25E0%25A4%25B5%25E0%25A5%2587%25E0%25A4%25A6%25E0%25A4%25A8&rut=4b5afe3960f5b21225023d0ae5470a3c5041e34da8bc2636c236da7b1cdc6e32"
+  },
+  {
+    "id": "SCR_6343",
+    "name": "services.india.gov.in/service/listing?ln=en&cat_id=63&sort=hit_count@desc&page_no=2 Scheme",
+    "level": "Central",
+    "state": "All",
+    "sector": "Education",
+    "demographics": [
+      "Student"
+    ],
+    "gender": "All",
+    "budget": 4543.0,
+    "description": "All students from standard 1 to all streams of Higher Education are provided scholarship through Digital Gujarat Portal. For DBT, this portal is integrated with IFMS. For General Category student, subject to eligibility, the scholarship under Mukhyamantri Yuva Svavlamban Yojna is paid through https://mysy.guj.nic.in. This service is available for specific period of time when scholarship ...",
+    "benefits": "Benefits include assistance related to education. Access information via the link.",
+    "eligibility": "Target beneficiaries: Student. Details on official site.",
+    "source_url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fservices.india.gov.in%2Fservice%2Flisting%3Fln%3Den%26cat_id%3D63%26sort%3Dhit_count%2540desc%26page_no%3D2&rut=dca2703580960385991d8f3e195f6096d8907a49fbc0dc91f2f6dd706f33a14b"
+  },
+  {
+    "id": "SCR_6137",
+    "name": "services.india.gov.in/service/state_services?sd_id=959&ln=hi Scheme",
+    "level": "Central",
+    "state": "All",
+    "sector": "Social Welfare",
+    "demographics": [
+      "Middle Class"
+    ],
+    "gender": "All",
+    "budget": 1637.0,
+    "description": "List of services of Gujarat \u0917\u0941\u091c\u0930\u093e\u0924 \u092e\u0947\u0902 10\u0935\u0940\u0902 \u0914\u0930 12\u0935\u0940\u0902 \u0915\u0915\u094d\u0937\u093e \u0915\u0947 \u091b\u093e\u0924\u094d\u0930 \u0907\u0938 \u092a\u094b\u0930\u094d\u091f\u0932 \u0915\u0947 \u092e\u093e\u0927\u094d\u092f\u092e \u0938\u0947 \u0905\u092a\u0928\u0947 \u092c\u094b\u0930\u094d\u0921 \u092a\u0930\u0940\u0915\u094d\u0937\u093e \u092a\u0930\u093f\u0923\u093e\u092e \u0911\u0928\u0932\u093e\u0907\u0928 \u0926\u0947\u0916 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902\u0964 \u092a\u0930\u093f\u0923\u093e\u092e \u0906\u092e \u0924\u094c\u0930 \u092a\u0930 \u092c\u094b\u0930\u094d\u0921 \u0926\u094d\u0935\u093e\u0930\u093e ...",
+    "benefits": "Benefits include assistance related to social welfare. Access information via the link.",
+    "eligibility": "Target beneficiaries: Middle Class. Details on official site.",
+    "source_url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fservices.india.gov.in%2Fservice%2Fstate_services%3Fsd_id%3D959%26ln%3Dhi&rut=c6dc95ab477f39c09ef5503f3cd18aa6a31b1a59c107f9a8e42fc1fc45665261"
+  },
+  {
+    "id": "SCR_2956",
+    "name": "bajajgeneralinsurance.com Scheme",
+    "level": "Central",
+    "state": "All",
+    "sector": "Healthcare",
+    "demographics": [
+      "Middle Class"
+    ],
+    "gender": "All",
+    "budget": 256.0,
+    "description": "Covers both OPD and IPD expenses reducing out-of-pocket costs at 18400+ cashless hospitals. Secure Your Health with Bajaj General Insurance starting at \u20b915/Day* for flexible policies",
+    "benefits": "Benefits include assistance related to healthcare. Access information via the link.",
+    "eligibility": "Target beneficiaries: Middle Class. Details on official site.",
+    "source_url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fduckduckgo.com%2Fy.js%3Fad_domain%3Dbajajgeneralinsurance.com%26ad_provider%3Dbingv7aa%26ad_type%3Dtxad%26click_metadata%3DSSLTe13W_DA1W9smGlZebx7gQlmNnlPoLctcKlec130bJsCNEc6ZLGftOACurj_yUyg2QmJFmNmHI0U%252Dv%252DXhURGCqkEYhhbF_S99mHl8nkZG1XASgzw_A0g0DTHvCuLLX1THWNtiYoZpEAmXerz%252DBLPHkSx2vdF7fDQuPK8%252DPDA.aIpwxOD0783hpOydyXV0mg%26rut%3D74885cf7ac54df61e9d27042b40b766d76da02af02ff0b4e92eaeee8b8b2b032%26u3%3Dhttps%253A%252F%252Fwww.bing.com%252Faclick%253Fld%253De8h1oFnn0IaxED3dOg5w6BUzVUCUwG0h1qSadUAzM_7CfPOidLnNjkBvEyUCv5%252D3j3V%252DIRlMMGj5PRSEVN75MqEYYiuLh97hkjelSZCWMvdDMKNy%252DdZUHkGbgDNQkcd6iSq8w0okTI1LQhCfzcQksyOJYBMfHWTtDImknI2K_23znUG%252DNah9CPNEjUR8Dx7Mft91lY6vjmadFFcMcuIt_E66l_cQQ%2526u%253DaHR0cHMlM2ElMmYlMmZ3d3cuYmFqYWpnZW5lcmFsaW5zdXJhbmNlLmNvbSUyZmhlYWx0aC1pbnN1cmFuY2Utb25saW5lJTJmcHJvZHVjdCUzZmdjbHNyYyUzZDNwLmRzJTI2JTI2dXRtX3NvdXJjZSUzZEJpbmdHZW5lcmljJTI2dXRtX21lZGl1bSUzZCU3YmFkZ3JvdXBuYW1lJTdkJTI2dXRtX2NhbXBhaWduJTNkQmluZ19HZW5lcmljX0hlYWx0aCUyNmRldmljZSUzZGMlMjZtc2Nsa2lkJTNkOGU4NmE4MjcwMjQ0MTkxZTE2MTZjMjBkN2NiY2NhN2I%2526rlid%253D8e86a8270244191e1616c20d7cbcca7b%26vqd%3D4%2D169244699915085220358118034710236203241%26iurl%3D%257B1%257DIG%253D0110465B4528491AAC7AE95A1B86D1DE%2526CID%253D0C19389F357B69F621142FEA341968C3%2526ID%253DDevEx%252C5038.1&rut=0c105b86564bcf2d72573169b80f849dacc93b2590902e690f35ab480b830b9f"
+  },
+  {
+    "id": "SCR_9621",
+    "name": "services.india.gov.in/service/detail/check Scheme",
+    "level": "Central",
+    "state": "All",
+    "sector": "Healthcare",
+    "demographics": [
+      "Middle Class"
+    ],
+    "gender": "All",
+    "budget": 3921.0,
+    "description": "The Pradhan Mantri Jan Arogya Yojana (PM-JAY) beneficiary login portal allows individuals to check their eligibility for the Ayushman Bharat health scheme. By logging in with a mobile number, users can verify their beneficiary status, access their Ayushman Card, and avail benefits like free hospitalization at empanelled hospitals.",
+    "benefits": "Benefits include assistance related to healthcare. Access information via the link.",
+    "eligibility": "Target beneficiaries: Middle Class. Details on official site.",
+    "source_url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fservices.india.gov.in%2Fservice%2Fdetail%2Fcheck%2Dstate%2Dwise%2Dstatus%2Dof%2Drashtriya%2Dswasthya%2Dbima%2Dyojana%2D1&rut=102fa70ff15ed095e5cefe87e5a921b025823947e1cc36b4f57fa9ba24de8191"
+  },
+  {
+    "id": "SCR_4441",
+    "name": "services.india.gov.in/service/detail/gujarat Scheme",
+    "level": "Central",
+    "state": "All",
+    "sector": "Healthcare",
+    "demographics": [
+      "Middle Class"
+    ],
+    "gender": "All",
+    "budget": 4441.0,
+    "description": "Gujarat Government has taken an initiative to invite citizens to interact with the government departments online. Citizens have to specify name, email, and the department that the citizen wishes to interact with.",
+    "benefits": "Benefits include assistance related to healthcare. Access information via the link.",
+    "eligibility": "Target beneficiaries: Middle Class. Details on official site.",
+    "source_url": "//duckduckgo.com/l/?uddg=https%3A%2F%2Fservices.india.gov.in%2Fservice%2Fdetail%2Fgujarat%2Dfinancial%2Dassistanceloan%2Dscheme%2Dfor%2Dmbbsbsam%2Dmbds%2Ddental%2Dand%2Dhomeopathic%2Ddegree%2Dholder%2Ddoctors%2Dof%2Dscheduled%2Dcaste%2D1&rut=9e58cb4e7304b176fc8a122f51d997ed4169476567863d81e9f4c8eeb56099d9"
+  }
+]
